@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnieF03
 - 👀 I’m interested in studying code
 - 🌱 I’m currently learning marketing and logistics
-- 💞️ I’m looking to collaborate on an interesting project
+- 💞️ I’m looking to collaborate on an interesting projects
 
 
 <!---
